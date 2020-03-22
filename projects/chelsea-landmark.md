@@ -7,6 +7,7 @@ thumbnail: "/v1584885260/mike-dorner-173502-unsplash_ieftst.jpg"
 categories:
 - photography
 - pink
+- yellow
 project_bg_color: ''
 project_fg_color: ''
 
