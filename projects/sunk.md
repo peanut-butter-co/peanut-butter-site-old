@@ -1,6 +1,6 @@
 ---
 thumbnail: "/v1584885120/cody-davis-253925-unsplash_yiyujd.jpg"
-title: Pineapple
+title: Pineapple!
 date: 2019-02-06
 categories:
 - photography
