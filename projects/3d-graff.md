@@ -1,6 +1,6 @@
 ---
 thumbnail: "/v1584885199/ian-dooley-281897-unsplash_iduns0.jpg"
-title: Ice Cream
+title: Ice Cream!
 date: 2019-01-04
 categories:
 - photography
