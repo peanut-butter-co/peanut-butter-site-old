@@ -3,7 +3,7 @@ date: 2019-05-16
 year: 2019
 title: Banana
 category: Identity
-thumbnail: https://res.cloudinary.com/peanut-butter-collective/image/upload/v1584885260/mike-dorner-173502-unsplash_ieftst.jpg
+thumbnail: /v1584885260/mike-dorner-173502-unsplash_ieftst.jpg
 categories:
 - photography
 - pink

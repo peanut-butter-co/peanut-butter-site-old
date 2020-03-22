@@ -13,7 +13,7 @@ module.exports = {
       options: {
         path: "projects/**/*.md",
         typeName: "ProjectPost",
-        resolveAbsolutePaths: true,
+        resolveAbsolutePaths: false,
         remark: {
           externalLinksTarget: "_blank",
           externalLinksRel: ["nofollow", "noopener", "noreferrer"]
@@ -25,7 +25,7 @@ module.exports = {
       options: {
         path: "journal/**/*.md",
         typeName: "JournalPost",
-        resolveAbsolutePaths: true,
+        resolveAbsolutePaths: false,
         remark: {
           externalLinksTarget: "_blank",
           externalLinksRel: ["nofollow", "noopener", "noreferrer"]

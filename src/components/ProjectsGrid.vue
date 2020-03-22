@@ -1,9 +1,10 @@
 <template>
     <div class="projects">
+    
         <div class="project" v-for="item in projects" :key="item.node.id">
             <g-link :to="item.node.path" class="project-link">
             <g-image
-                :src="'https://res.cloudinary.com/peanut-butter-collective/image/upload' + item.node.thumbnail"
+                :src="settings.cloudinary_url + item.node.thumbnail"
                 :alt="item.node.title"
                 class="thumbnail"
             />
@@ -23,6 +24,11 @@ export default {
             type: Array,
             required: true
         }
+    },
+    data() {
+      return {
+          settings: require("../../data/theme.json")
+      }
     }
 }
 </script>
